@@ -7,4 +7,4 @@ Google Charts: https://developers.google.com/chart/interactive/docs/gallery/geoc
 
 Docker: https://docs.docker.com/samples/rails
 
-Chart kick gem: https://chartkick.com
+Chartkick gem: https://chartkick.com
