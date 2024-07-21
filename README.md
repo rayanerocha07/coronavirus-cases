@@ -1,10 +1,10 @@
 # Coronavirus Case Tracker with Ruby On Rails
 
 ## Resources:
-Coronavirus COVID19 API: https://documenter.getpostman.com/view/10808728/SzS8rjbc?version=latest
+Coronavirus COVID19 API: https://documenter.getpostman.com/view/10808728/SzS8rjbc?version=latest;
 
-Google Charts: https://developers.google.com/chart/interactive/docs/gallery/geochart
+Google Charts: https://developers.google.com/chart/interactive/docs/gallery/geochart;
 
-Docker: https://docs.docker.com/samples/rails
+Docker: https://docs.docker.com/samples/rails;
 
-Chartkick gem: https://chartkick.com
+Chartkick gem: https://chartkick.com.
